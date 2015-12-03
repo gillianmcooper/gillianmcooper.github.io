@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+
+    <head>
+            <meta charset="uft-8">
+            <meta name= "viewport" content ="width=device-width, initial-scale=1"/>
+            <meta name="keywords" content="maps, cartography"/>
+
+                    <title>About|Gillian</title>
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+            <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+            <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html">
+                    <i class="fa fa-play-circle"></i>  <span class="text-left">Home</span>
+                </a>
+            </div>
+
+
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="page-scroll" href="about.html">About</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="projects.html">Projects</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="resume.html">Resume</a>
+                    </li>
+        </div>
+
+    	</nav>
+                    
+                  
+                </ul>
+            </div>
+
+    			</div>
+        </div>
+        </div>
+    	</div>
+
+
+<body class="intro" style="background-image: url('assets/high.jpg');">
+
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2"style="background-image: url('assets/grey.jpg');">
+                        <h1 class="brand-heading">Gillian Cooper</h1>
+                             <p>I am currently finishing my undergraduate degrees in People and Environments Geography and Cartography/GIS at the University of Wisconsin Madison. You can find me in Science Hall working on different projects<br> or down at Porter Boat House with Wisconsin Womens Crew! <br>Or you can find me here on <a href="https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile">LinkedIn</a>, <a href="https://twitter.com/@coop_gil"> Twitter</a> or here at <a href="http://www.uwbadgers.com/roster.aspx?rp_id=2901&path=wrow">UWBadgers</a>.</br>
+                        </p>
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </p>
+	
+
+
+	</body>
+
+	</html>
