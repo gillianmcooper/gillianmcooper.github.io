@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+
+    <head>
+            <meta charset="uft-8">
+            <meta name= "viewport" content ="width=device-width, initial-scale=1"/>
+            <meta name="keywords" content="maps, cartography"/>
+
+                    <title>Gillian Cooper</title>
+
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+            <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+            <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <i class="fa fa-play-circle"></i>  <span class="text-left">Top</span>
+                </a>
+            </div>
+            <button class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button"></button>
+
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+
+                    <li>
+                        <a class="page-scroll" href="about.html">About</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="portfolio.html">Projects</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="resume.html">Resume</a>
+                    </li>
+                   
+        </div>
+       
+    	</nav>
+                    
+                  
+                </ul>
+            </div>
+
+    			</div>
+        </div>
+        </div>
+    	</div>
+
+<p>
+<header class="intromain" style="background-image: url('assets/walk.jpg');">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">Gillian Cooper</h1>
+                        <h2 class="intro-text">Geographer. Explorer. Kiwi.</h2>
+                        <a href="#about" class="btn btn-circle page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="hello">
+<p>
+<header class="intro" style="background-color: #cccc;"
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">Welcome to My Website!</h1>
+                        <p>This website is a collection of things! It is my online portfolio, it contains projects I have done, and is also a place for me to share what I am all about!</p>
+                        <a href="#about" class="btn btn-circle page-scroll">
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       
+    </div>
+    </header>
+    <section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Contact Me!</h2>
+                <p>Feel free to email me to provide some feedback, get more information on any of my work, or to just say hello!</p>
+                <p>Drop me an email at: <a href="mailto:gcooper5@wisc.edu.com">gcooper5@wisc.edu</a>
+                Follow my LinkedIn at: <a href="https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile">LinkedIn</a>, Or tweet to me on <a href="https://twitter.com/@coop_gil"> 
+                Twitter</a> 
+                </p>
+ 
+    </section>
+
+
+    <script type="text/javascript" src=" lib/jquery-1.11.3.min.js"> </script>
+    <script src="assets/js/jquery.bootstrap-autohidingnavbar.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        </body>
+    </html>
