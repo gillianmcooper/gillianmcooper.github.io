@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+<div class="container">
+	<head>
+			<meta charset="uft-8">
+			<meta name= "viewport" content ="width=device-width, initial-scale=1"/>
+			<meta name="keywords" content="maps, cartography"/>
+
+					<title>Resume|Gillian</title>
+
+			<link rel="stylesheet" href="css/bootstrap.min.css">
+			<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+			<link rel="stylesheet" href="css/style.css">
+	</head>
+<h1 class="brand-heading">Gillian M. Cooper | Resume</h1>		
+<h4>EDUCATION</h4>	 	 
+<li>University of Wisconsin-Madison: 	Bachelor of Science degree, June 2016</li>
+<li>Majors: Geography-People and Environment: Cartography/ GIS</li>
+<li>Oregon State University			         Corvallis, OR</li>
+<li>Bachelor of Science progress, 09/2011, Transferred 01/2014</li>
+
+<h4>RELEVANT COURSE WORK</h4>
+    <p> <h5> Geography 676</h5>	<h6>Web Spatial Database development and programming</h6><h5 style="text-align:right">University of Madison-WI  (11/10-08/11)</h5></p>
+   	 	 	 	<p> 		
+			<li>Conceptualized and developed an expandable database of land and resource management tools for the state of California based of coordinate data, resource position and historical emergency events, utilizing PgAdmin II platform</li>
+			<il>Learnt SQL data language and the utilization of programs such as JAVA, Postgres and PgAdminIII</li>
+				</p>
+<p> <h5>Geography 565</h5>	<h6>Undergraduate Colloquium</h7><h5 style="text-align:right">University of Madison-WI(08/15-12/15)</h5></p>
+				<p>
+			<li>Conceptualized and developed an expandable database of land and resource management tools for the state of California based of coordinate data, resource position and historical emergency events, utilizing PgAdmin II platform</li>
+			<li>Learnt SQL data language and the utilization of programs such as JAVA, Postgres and PgAdminIII</li>
+				</p>
+<h4>WORK EXPERIENCE </h4> 	 
+           <p> <h5>Sinclair Knight Merz</h5><h6>Office Assistant</h6><h5 style="text-align:right"> Auckland, NZ (11/10-08/11)</h5></p>
+ 	 	 	 	 	 		 	        	  
+			<li>Responsible for coordinating and sorting confidential documents, under time crunch, for bid evaluation of Olkaria Geothermal Power Project (in the Kenyan Rift Valley) </li>
+			<li>Provided a liaison between peers and project managers, balancing time and resources between multiple projects </li>
+			<li>Collaborated ideas with team members in order to provide a smooth and enjoyable client experience; anticipating client needs and managing time and resources in order to respond to these needs effectively</li>
+
+<h5>University of Wisconsin Varsity Women’s Rowing </h5><h6>Varsity Student-Athlete and captain</h6><h5 style="text-align:right"> Madison, WI (2012-present)</h5></p> 	 	 	 	 	 	 		 	
+			<li>Led team meetings and training sessions under the guidance of the head coach;  Ran development sessions developing team goals and delegated tasks among the team utilizing the strengths of each team member</li>
+			<li>Devoted over 20 hours a week to achievement and training with team</li>
+			<li>Committed and applied self to the team and embodying values of the University inside and outside of  practice; up holding team values commitment, teamwork and a selfless devotion to team goal</li>
+			<li>Reached personal goal of making the Great British U23 team and medaling at U23 World Championships in Plovdiv, Bulgaria- July 2015</li>
+
+<h4>VOLUNTEER EXPERIENCE </h4>	 	 
+ <h5>Humanitarian volunteer </h5><h5 style="text-align:right">Addis Ababa, Ethiopia</h5></p> 
+			<li>Travelled to several small towns in Ethiopia, negotiating cultural boarders while providing education and information relating to sanitary house set up and concurrently learning about land use, history, culture, traditional and agricultural practices common in the region</li>
+			<li>Worked alongside community members building two model houses using traditional building materials integrated with modern sanitary set up </li>
+			<li>Worked alongside elders within the community balancing traditional community ideals and western ideas in order to promote health in young females in the population </li>
+	
+</body>
+</div>
+</html>
