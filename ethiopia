@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+
+    <head>
+            <meta charset="uft-8">
+            <meta name= "viewport" content ="width=device-width, initial-scale=1"/>
+            <meta name="keywords" content="maps, cartography"/>
+
+                    <title>Ethiopia|Gillian</title>
+
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+            <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+            <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html">
+                    <i class="fa fa-play-circle"></i>  <span class="text-left">Home</span>
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="about.html">About</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="projects.html">Projects</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="resume.html">Resume</a>
+                    </li>
+        </div>
+        
+    	</nav>
+
+<header class="intromain" style="background-image: url('assets/ethiopia.jpg');">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                    </div>
+                </div>
+            </div>
+        </div class="text">
+
+<div style="background-image: url('assets/grey.jpg');">
+    <p ><h1>Ethiopia Sustainable Development Project 2012</h1>
+        In 2012 I travelled to Ethiopia with a group of 13 other College Student Athletes, called <a href="https://www.youtube.com/watch?v=82nvAudkPqE"> Beavers Without Boarders</a> with interests in sustainable development. Together we travelled to several small towns in Ethiopia, providing education and information relating to sanitary a housing set up and concurrently learning about land use, history, culture, and traditional agricultural practices common in the region.
+        <br>During this trip we worked alongside community members building two model houses using traditional building materials integrated with modern sanitary set up, including the separation of human and animal living spaces. 
+        <br>As a female alongside elders within the community I worked to understand traditional community ideals but also share western ideas in order to promote health in young females in each community. This trip was an inspirational experience for me and an experience that drove me to Geography. I found my passion for working with communities and people on a personal level. The people I met in the villages taught me about dependence on the land and value attachment to the natural landscape; something I have continually returned to throughout my undergraduate research.
+
+
+</p>
+</div>
+
+
+	</header
+
+
+
+
+</html>
